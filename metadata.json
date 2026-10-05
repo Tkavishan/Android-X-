@@ -1,0 +1,6 @@
+{
+  "name": "VaultX",
+  "description": "Secure native Android local file encryption and decryption powered by AES-256-GCM, PBKDF2, and zero cloud dependency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
